@@ -10,11 +10,11 @@
 
 ## 🌱 Git 协作方式建立
 
-### 📦 仓库地址（已创建）
+### 📦 仓库地址
 
 &gt; 🔗 **GitHub 仓库**：[https://github.com/Mark-Zhangbinghan/esimstore](https://github.com/TeamE脉相传/eSIM-Store)  
 
-### 🔧 分支管理策略（Git Flow 简化版）
+### 🔧 分支管理策略
 
 - `main`：生产分支，仅存放稳定版本
 - `develop`：开发主分支，每日集成
@@ -63,7 +63,7 @@
 
 
 
-## 📖 MSF 基本原则理解（《构建之法》第7章）
+## 📖 MSF 基本原则理解
 
 我们团队将遵循 **MSF（Microsoft Solution Framework）** 的九大基本原则，重点落实以下三点：
 

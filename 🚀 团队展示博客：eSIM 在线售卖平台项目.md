@@ -80,8 +80,8 @@
 
 ## 📸 团队首次合照
 
-![](https://github.com/Mark-Zhangbinghan/esimstore/blob/main/%E5%9B%A2%E9%98%9F%E5%90%88%E7%85%A7.jpg)
-&gt; （合照已上传至团队 Git 仓库 `https://github.com/Mark-Zhangbinghan/esimstore/blob/main/%E5%9B%A2%E9%98%9F%E5%90%88%E7%85%A7.jpg`）
+![](https://github.com/Mark-Zhangbinghan/esimstore/blob/main/photo/%E5%9B%A2%E9%98%9F%E5%90%88%E7%85%A7.jpg)
+&gt; （合照已上传至团队 Git 仓库 `https://github.com/Mark-Zhangbinghan/esimstore/blob/main/photo/%E5%9B%A2%E9%98%9F%E5%90%88%E7%85%A7.jpg`）
 
 
 

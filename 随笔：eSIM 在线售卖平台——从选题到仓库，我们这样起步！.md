@@ -28,7 +28,7 @@
 
 ## 二、需求规格说明书（v1.0 精简版）
 
-已上传至仓库 [https://github.com/Mark-Zhangbinghan/esimstore/需求规格说明书](https://github.com/TeamE脉相传/eSIM-Store/需求规格说明书)  ，下文摘录关键部分。
+已上传至仓库 [需求规格说明书](https://github.com/Mark-Zhangbinghan/esimstore/blob/main/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.md)  ，下文摘录关键部分。
 
 ### 1. 面向用户分析
 | 用户群 | 痛点               | 场景案例                                                 |
@@ -64,7 +64,7 @@
 
 | 维度   | 阐述                                                         |
 | ------ | ------------------------------------------------------------ |
-| 真实性 | 已联系两家 eSIM 批发商获得测试 SM-DP+ 接口；支付走支付宝/微信沙箱，可真实扣款/退款。 |
+| 真实性 | 支付走支付宝/微信沙箱，可真实扣款/退款。                     |
 | 可用性 | MVP 跑通「选-付-发-激」闭环，支持 iPhone XS 以上、Pixel 等 eSIM 机型；落地即可上网。 |
 | 价值   | ①用户：省排队、省实体卡、即买即用；②运营商：低门槛线上渠道；③社会：减少塑料 SIM，绿色低碳。 |
 
@@ -73,21 +73,20 @@
 ## 四、Git 协作方式 & 仓库地址
 
 &gt; 仓库已立刻建立 ⬇️  
-&gt; 🔗 **Gitee（主仓库）**：[mark-zhangbinghan/team-e脉相传](https://gitee.com/mark-zhangbinghan/esimstore) 
-&gt; 🔗 **GitHub（镜像）**：[https://github.com/Mark-Zhangbinghan/esimstore](https://github.com/TeamE脉相传/eSIM-Store)（用于Actions）
+&gt; 🔗 **GitHub**：[https://github.com/Mark-Zhangbinghan/esimstore](https://github.com/Mark-Zhangbinghan/esimstore)
 
 ### 1. 仓库初始化截图
-![init-repo](https://gitee.com/team-e脉相传/eSIM-Store/raw/master/docs/images/repo-init.png)
+s![init-repo](https://github.com/Mark-Zhangbinghan/esimstore/blob/main/photo/%E4%BB%93%E5%BA%93%E5%88%9D%E5%A7%8B%E5%8C%96%E6%88%AA%E5%9B%BE.png)
 
 ### 2. Issue 驱动开发
-- 需求、Bug、任务全部用 **Gitee Issue** 管理，标签：`需求/Bug/文档/优化`
+- 需求、Bug、任务全部用 **Issue** 管理，标签：`需求/Bug/文档/优化`
 - Issue 模板已内置 `.gitee/ISSUE_TEMPLATE.md`
 - 提交信息格式：`[TYPE] 简述 #IssueID`  
   例：`[Feature] 完成支付宝沙箱支付 #14`
 
 ---
 
-## 五、团队计划（已写入 Gitee Issues）
+## 五、团队计划（已写入 Issues）
 
 > 使用《构建之法》「计划与估计」公式：  
 > **矫正耗时 Y = X ± X÷N** ，初级团队 **N=2**
@@ -101,8 +100,8 @@
 | W12-13 | 7 天 Alpha 冲刺   | 42        | 21~63     | #8~#14  |
 | W14    | 测试+发布博客     | 8         | 4~12      | #15     |
 
-🔍 **Gitee Issues 截图**  
-![issues-board](https://gitee.com/team-e脉相传/eSIM-Store/raw/master/docs/images/issues-board.png)
+🔍 **Issues 截图**  
+![issues-board](https://github.com/Mark-Zhangbinghan/esimstore/blob/main/photo/%E5%9B%A2%E9%98%9Fissues%E6%88%AA%E5%9B%BE.png)
 
 ---
 
@@ -136,10 +135,9 @@
 
 | 内容                | 链接                                                         |
 | ------------------- | ------------------------------------------------------------ |
-| 需求规格说明书 v1.0 | [Gitee 浏览](https://gitee.com/team-e脉相传/eSIM-Store/blob/master/docs/requirements-v1.0.md) |
-| 仓库主页            | [https://gitee.com/team-e脉相传/eSIM-Store](https://gitee.com/team-e脉相传/eSIM-Store) |
-| Issues 看板         | [点我查看](https://gitee.com/team-e脉相传/eSIM-Store/issues) |
-| 原型在线演示        | [Axure 链接](https://e9m9.axshare.com)                       |
+| 需求规格说明书 v1.0 | [Github 浏览](https://github.com/Mark-Zhangbinghan/esimstore/blob/main/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6.md) |
+| 仓库主页            | [点我查看](https://github.com/Mark-Zhangbinghan/esimstore)   |
+| Issues 看板         | [点我查看](https://github.com/Mark-Zhangbinghan/esimstore/issues) |
 
 ---
 

@@ -1,9 +1,10 @@
 // app/page.tsx
-// import HeroSection from "../../components/HeroSection/HeroSection";
-// import PlanCard from "../../components/PlanCard/PlanCard";
-// import WhyChooseSection from "../../components/MainPage/WhyChooseSection";
-// import CustomerReviewsSection from "../../components/MainPage/CustomerReviewsSection";
-// import HowItWorksSection from "../../components/MainPage/HowItWorksSection";
+import HeroSection from "../components/HeroSection/HeroSection";
+import FeatureSection from "../components/FeatureSection";
+import PlanCard from "../components/PlanCard/PlanCard";
+import WhyChooseSection from "../components/MainPage/WhyChooseSection";
+import CustomerReviewsSection from "../components/MainPage/CustomerReviewsSection";
+import HowItWorksSection from "../components/MainPage/HowItWorksSection";
 import { getFeaturedPlans } from "../lib/plans";
 
 export default async function Home() {
@@ -11,12 +12,11 @@ export default async function Home() {
 
   return (
     <div>
-      2493
-      {/* <HeroSection /> */}
+      <HeroSection />
       {/* <FeatureSection /> */}
-      {/* <WhyChooseSection />
+      <WhyChooseSection />
       <CustomerReviewsSection />
-      <HowItWorksSection /> */}
+      <HowItWorksSection />
       {/* <div
         style={{
           display: "flex",
